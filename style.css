@@ -1,0 +1,34 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: blueviolet;
+}
+.jumbotron h4 {
+  font-style: italic;
+  color: rgb(141, 10, 10);
+}
+.jumbotron p {
+  font-style: italic;
+  color: blanchedalmond;
+}
+.bio {
+  background: url("img/doraeamon\ 6.jpeg");
+  width: 30opx;
+}
+.bio h1 {
+  padding: 10px;
+  font-style: italic;
+  font-size: 50px;
+}
+.capability {
+  padding: 2rem 1rem;
+}
+.capability h2 {
+  padding: 15px;
+  background-color: tomato;
+  font-style: oblique;
+}
+.footer {
+  padding: 20px;
+  background-color: aqua;
+  font-style: italic;
+}
